@@ -1,0 +1,60 @@
+/*
+ This file is part of AppleShowAllFiles.
+ AppleShowAllFiles is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ AppleShowAllFiles is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ You should have received a copy of the GNU General Public License
+ along with PersiautoCalculator.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+//
+//  Main.strings - English
+//  AppleShowAllFiles
+//
+//  Created by Manuel Martinez Martin on 4/3/17.
+//  Copyright © 2017 Manuel Martinez Martin. All rights reserved.
+//
+
+/* Class = "NSMenuItem"; title = "AppleShowAllFiles"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "AppleShowAllFiles";
+
+/* Class = "NSMenuItem"; title = "Quit AppleShowAllFiles"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit AppleShowAllFiles";
+
+/* Class = "NSTextFieldCell"; title = "By: Manuel Martínez"; ObjectID = "Ebg-DH-4ki"; */
+"Ebg-DH-4ki.title" = "Author: Manuel Martínez";
+
+/* Class = "NSTextFieldCell"; title = "cStatus"; ObjectID = "Fns-kM-2m3"; */
+"Fns-kM-2m3.title" = "cStatus";
+
+/* Class = "NSWindow"; title = "AppleShowAllFiles"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "AppleShowAllFiles";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSButtonCell"; title = "Cambiar"; ObjectID = "LUf-aJ-vQ3"; */
+"LUf-aJ-vQ3.title" = "Change";
+
+/* Class = "NSMenuItem"; title = "Hide AppleShowAllFiles"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide AppleShowAllFiles";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSTextFieldCell"; title = "AppleShowAllFiles v"; ObjectID = "fEH-zX-QYJ"; */
+"fEH-zX-QYJ.title" = "AppleShowAllFiles v";
+
+/* Class = "NSTextFieldCell"; title = "1.0"; ObjectID = "aAq-tL-yeU"; */
+"aAq-tL-yeU.title" = "1.0";
+
+/* Class = "NSTextFieldCell"; title = "Estado"; ObjectID = "dCv-Gf-qt5"; */
+"dCv-Gf-qt5.title" = "Status";
+
+
